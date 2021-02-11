@@ -1,6 +1,6 @@
 # App created by Kisalay Srivastava
 # GitHub repo of this app https://github.com/Kisalaykisu/pomodoro-app
-# Demo of this app
+# Demo of this app https://github.com/Kisalaykisu/pomodoro-app/blob/main/app.py
 
 import streamlit as st
 import time
